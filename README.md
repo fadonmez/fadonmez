@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @fatihsofts
-- 👀 I’m interested in web development
+- 👀 I’m interested in web development and mobile app development
 - 🌱 I’m currently learning javascript and flutter
-- 💞️ I’m looking to collaborate on web development
+- 💞️ I’m looking to collaborate on web development and mobile app development
 - 📫 How to reach me ? You can send me an e-mail. My address is fatihdonmezbusiness@outlook.com
 
 <!---
