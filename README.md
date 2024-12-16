@@ -3,9 +3,9 @@
 
 - 🌱 I’m currently learning **Python and ML Technologies**
 
-- 👨‍💻 All of my projects are available at [https://portfolio-seven-alpha-37.vercel.app/](https://portfolio-seven-alpha-37.vercel.app/)
+- 👨‍💻 All of my projects are available at [https://donmez.vercel.app](https://donmez.vercel.app)
 
-- 💬 Ask me about **react,nextjs**
+- 💬 Ask me about **react, nextjs, nodejs**
 
 - 📫 How to reach me **fatihdonmezbusiness@outlook.com**
 
